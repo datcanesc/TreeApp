@@ -1,0 +1,10 @@
+Flask==2.1.2
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==3.1.0
+psycopg2-binary==2.9.3
+Werkzeug==2.1.2
+Flask-Cors==3.0.10
+SQLAlchemy==1.4.49  # SQLAlchemy sürümünü 1.4.x'e düşürüyoruz
+passlib[bcrypt]==1.7.4
+python-dotenv
+psycopg2-binary
